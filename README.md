@@ -37,6 +37,8 @@ J'ai des compétences en:</br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maillotdebenjamin&repo=my_rpg)](https://github.com/maillotdebenjamin/my_rpg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maillotdebenjamin&repo=Python_project)](https://github.com/maillotdebenjamin/Python_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maillotdebenjamin&repo=Family_site)](https://github.com/maillotdebenjamin/Family_site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maillotdebenjamin&repo=PHP)](https://github.com/maillotdebenjamin/PHP)
 
 J'ai aussi d'autres projets que je n'ai pas poster, donc n'hésitez pas à me joindre sur :</br>
 Gmail: maillotbenjamin1@gmail.com ou benjamin.maillot@epitech.eu</br>
